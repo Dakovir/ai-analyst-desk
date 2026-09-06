@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-09-05T23:16:23",
+  "indicators": {
+    "Indices actions par zone": {
+      "Amérique — S&P 500": {
+        "value": 7718.6,
+        "change_pct": -0.38
+      },
+      "Amérique — Nasdaq": {
+        "value": 26506.99,
+        "change_pct": -0.29
+      },
+      "LATAM — Bovespa (Brésil)": {
+        "value": 185147.0,
+        "change_pct": -0.02
+      },
+      "LATAM — IPC (Mexique)": {
+        "value": 64866.61,
+        "change_pct": -0.87
+      },
+      "Asie — Nikkei 225 (Japon)": {
+        "value": 65020.94,
+        "change_pct": 1.26
+      },
+      "Asie — Hang Seng (Hong Kong)": {
+        "value": 25650.87,
+        "change_pct": 1.74
+      },
+      "Asie — Shanghai Composite": {
+        "value": 3930.12,
+        "change_pct": -0.3
+      },
+      "Europe — Euro Stoxx 50": {
+        "value": 6392.93,
+        "change_pct": 0.16
+      },
+      "Europe — CAC 40": {
+        "value": 8278.77,
+        "change_pct": -0.09
+      },
+      "Europe — DAX": {
+        "value": 26046.4,
+        "change_pct": 0.17
+      },
+      "Afrique — JSE Top 40 (Afrique du Sud)": {
+        "value": 7359.56,
+        "change_pct": 0.31
+      }
+    },
+    "Taux souverains US": {
+      "US 3 mois": {
+        "value": 3.76,
+        "change_pct": 0.45
+      },
+      "US 5 ans": {
+        "value": 4.55,
+        "change_pct": 0.91
+      },
+      "US 10 ans": {
+        "value": 4.78,
+        "change_pct": 0.46
+      },
+      "US 30 ans": {
+        "value": 5.25,
+        "change_pct": 0.06
+      }
+    },
+    "Taux de change": {
+      "EUR/USD": {
+        "value": 1.16,
+        "change_pct": 0.31
+      },
+      "USD/JPY": {
+        "value": 156.22,
+        "change_pct": -1.7
+      },
+      "GBP/USD": {
+        "value": 1.35,
+        "change_pct": 0.25
+      },
+      "Dollar Index (DXY)": {
+        "value": 99.16,
+        "change_pct": 0.16
+      }
+    },
+    "Énergie": {
+      "Pétrole WTI": {
+        "value": 91.48,
+        "change_pct": 0.2
+      },
+      "Pétrole Brent": {
+        "value": 96.28,
+        "change_pct": 0.8
+      },
+      "Gaz naturel": {
+        "value": 2.97,
+        "change_pct": 2.13
+      }
+    },
+    "Matières premières": {
+      "Or": {
+        "value": 4429.8,
+        "change_pct": -1.38
+      },
+      "Argent": {
+        "value": 66.05,
+        "change_pct": -1.38
+      },
+      "Cuivre": {
+        "value": 6.6,
+        "change_pct": 0.3
+      }
+    },
+    "Indices de la peur (volatilité)": {
+      "VIX (S&P 500)": {
+        "value": 14.53,
+        "change_pct": 1.47
+      },
+      "VXN (Nasdaq)": {
+        "value": 20.04,
+        "change_pct": -0.6
+      }
+    }
+  },
+  "news": {
+    "Politique monétaire US (Fed)": [
+      {
+        "title": "Fed Rate Hike September 2026: Markets Brace for 25bps ...",
+        "url": "https://intellectia.ai/blog/fed-rate-hike-september-2026",
+        "content": "Get Started\n\n# Fed Rate Hike September 2026: Markets Brace for First Increase in Years as Inflation Fears Resurface\n\n2026-09-0214mins\n\nWritten byJason Huang\n\nContent\n\n## Key Takeaway\n\nThe Federal Reserve's September 2026 meeting has suddenly become the most consequential monetary policy event of the year, with markets now pricing in a 57% probability of a 25-basis-point rate hike—a dramatic revers"
+      },
+      {
+        "title": "Will the U.S. Jobs Surge Push the Fed to Raise Rates?",
+        "url": "https://www.agrolatam.com/amp/us-jobs-august-162000-fed-rates-agriculture",
+        "content": "## Stronger Jobs Data Puts the Federal Reserve and Farm Credit in the Spotlight\n\nThe employment report arrives at a critical moment for U.S. monetary policy. Ahead of the release, financial markets had reduced expectations for an interest-rate increase after Federal Reserve Governor Christopher Waller indicated he could favor holding rates steady if incoming data confirmed that inflationary pressu"
+      },
+      {
+        "title": "JPMorgan Drops 'Bullish' Stance On US Stocks After Warsh's Hawkish Tone At Jackson Hole, Shifts To 'Tactically Cautious' — Noticias de TradingView",
+        "url": "https://es.tradingview.com/news/stocktwits:635f03214094b:0-jpmorgan-drops-bullish-stance-on-us-stocks-after-warsh-s-hawkish-tone-at-jackson-hole-shifts-to-tactically-cautious",
+        "content": "Changing Outlook at the Federal Reserve\n\nMarket sentiment shifted after Kevin Warsh’s Jackson Hole speech on Friday, which emphasized that inflation shows little sign of meaningfully cooling.\n\nUnlike past central bank leaders, Warsh has offered limited forward guidance regarding the magnitude and duration of potential rate increases. Tyler pointed out that if the central bank resumes raising borro"
+      },
+      {
+        "title": "5 shocks that could keep US interest rates higher for longer",
+        "url": "https://www.commbank.com.au/articles/newsroom/2026/08/five-shocks-could-keep-interest-rates-higher-for-longer.html",
+        "content": "### Key points\n\nFive powerful shifts in the US economy are creating an unusual combination of resilient growth and persistent inflation, increasing the likelihood that interest rates will need to rise further.\n\nCommBank economists Joseph Capurso and Madison Cartwright point to a boom in AI investment, personal and corporate tax cuts, lower immigration, increased retirements and the Middle East ene"
+      }
+    ],
+    "Politique monétaire Europe (BCE)": [
+      {
+        "title": "ECB Raises Interest Rates, Energy Prices Boost European Inflation",
+        "url": "https://voi.id/en/economy/579734",
+        "content": "The eurozone is a group of EU countries that use the euro currency. Inflation in the region rose to 3.2 percent in May 2026, from 3 percent in April. The figure is already above the ECB's target of 2 percent.\n\nThe ECB raised its key deposit rate from 2 percent to 2.25 percent. The key deposit rate is the interest that commercial banks receive when they deposit funds at the central bank. Financial "
+      },
+      {
+        "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+        "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+        "content": "Traders locked in their expectations for the European Central Bank to hike interest rates at its Sept. 10 meeting, with market pricing on Tuesday morning putting a 98.9% probability on a 25 basis point increase to 2.5%, according to LSEG data.\n\nThe ECB raised its key rate to 2.25% in June, the first hike since 2023, in response to global inflationary pressures resulting from the Iran conflict.\n\nTh"
+      },
+      {
+        "title": "Licensable video: UNCAPTIONED: J.P. Morgan and BNP Paribas See ECB Rate Hike in December | Reuters Connect",
+        "url": "https://www.reutersconnect.com/item/uncaptioned-jp-morgan-and-bnp-paribas-see-ecb-rate-hike-in-december/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NTk5OS1WSURFTw",
+        "content": "J.P. Morgan and BNP Paribas See ECB Rate Hike in December. J.P. Morgan and BNP Paribas now expect the European Central Bank to raise interest rates again in December, reversing their previous forecasts that the tightening cycle would end earlier. Both banks expect a 25-basis-point increase in December, as persistent inflation and high energy prices continue to put pressure on the euro zone economy"
+      },
+      {
+        "title": "Eurozone Inflation Set to Rise as ECB Rate Hike Looms in September",
+        "url": "https://global.morningstar.com/en-nd/economy/eurozone-inflation-set-rise-ecb-rate-hike-looms-september",
+        "content": "Share\n\nImage 4\n\n## Key Takeaways\n\n   Eurozone inflation is expected to rise to 3.0% in August, while core inflation is seen rising to 2.6% year over year.\n   Economists still see little evidence of second-round effects from high energy prices, as wage growth remains contained.\n   The European Central Bank is expected to raise rates by 0.25 percentage points on Sept. 10.\n\nPreliminary data due on Se"
+      }
+    ],
+    "Asie (BoJ, Chine)": [
+      {
+        "title": "investingLive Asia-Pacific market news: Trump mulls declaring Iran war over",
+        "url": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-mulls-declaring-iran-war-over",
+        "content": "On data, Japan's services PMI rose to a five month high of 52.5 in August from 51.2, with S&P Global's Annabel Fiddes saying the near record pace of output charge increases strengthens the case for another Bank of Japan rate hike. In China, the private RatingDog Services PMI rose to 51.4 from 50.4, extending a divergence from Monday's softer official survey, with the RatingDog Composite PMI rising"
+      },
+      {
+        "title": "Japan GDP Per Capita 2026: $34,017",
+        "url": "https://fourweekmba.com/gdp-per-capita-japan",
+        "content": "Japan’s nominal GDP per capita decline resulted primarily from yen appreciation against the US dollar rather than economic contraction. The yen strengthened from 79.8 yen per dollar in 2012 to 121.0 yen per dollar in 2015, a 24% appreciation. Because World Bank calculations employ USD conversion using prevailing exchange rates, stronger yen mechanically reduced reported nominal GDP per capita desp"
+      },
+      {
+        "title": "Japanese Yen strengthens following hawkish BoJ comments",
+        "url": "https://www.fxstreet.com/news/japanese-yen-strengthens-following-hawkish-boj-comments-202609030906",
+        "content": "Rabobank’s strategists argue that US policy is increasingly echoing the very practices Washington has long criticised in Beijing. They highlight that “now we see the US Treasury engaging in exactly the sort of behaviour that China is accused of,” adding that this is “kind of the point”: in their view, the US believes it is “fighting fire with fire by copying the Chinese neo-mercantilist model.”\n\n#"
+      },
+      {
+        "title": "US Treasury Secretary Bessent: Japanese Yen moves 'pretty contained' and not disorderly",
+        "url": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-japanese-yen-moves-pretty-contained-and-not-disorderly-202608302347",
+        "content": "### What has been the Bank of Japan’s policy?\n\nThe Bank of Japan embarked in an ultra-loose monetary policy in 2013 in order to stimulate the economy and fuel inflation amid a low-inflationary environment. The bank’s policy is based on Quantitative and Qualitative Easing (QQE), or printing notes to buy assets such as government or corporate bonds to provide liquidity. In 2016, the bank doubled dow"
+      }
+    ],
+    "Marchés émergents (LATAM, Afrique)": [
+      {
+        "title": "Hong Kong Forum Explores Stablecoins' Promise in Atlanta Forum Ahead of Fintech South  - Global Atlanta",
+        "url": "https://www.globalatlanta.com/hong-kong-forum-explores-stablecoins-promise-in-atlanta-forum-ahead-of-fintech-south",
+        "content": "The reasoning? Stablecoins — tokenized digital assets pegged to the value of a fiat currency or commodity — offer benefits that smooth the way for cross-border commerce, perhaps to the chagrin of banks profiting handsomely off the current system and their privileged access to U.S. dollars, still the pre-eminent reserve currency.\n\nThat equation is changing in the emerging-market economies of Latin "
+      },
+      {
+        "title": "JPMorgan sees Latin American currencies supported by carry trades By Investing.com",
+        "url": "https://www.investing.com/news/forex-news/jpmorgan-sees-latin-american-currencies-supported-by-carry-trades-93CH-4887950",
+        "content": "## Latest comments\n\nJoin our investing challenges and compete for rewards while you learn!\n\n| Name | Last | Chg. % | Vol. |  |\n ---  --- \n| TSLA | 379.92 | +6.42% | 28.13M |  |\n| NVDA | 226.00 | +0.71% | 42.74M |  |\n| MU | 934.90 | -2.22% | 9.27M |  |\n| AVGO | 343.06 | -6.58% | 23.32M |  |\n| SPCX | 148.15 | +5.29% | 43.77M |  |\n| SNDK | 1,515.66 | -2.43% | 3.06M |  |\n| META | 610.36 | +2.95% | 6.7"
+      },
+      {
+        "title": "Recycled Tire Rubber Crumb Mulch Market Growth to 2035 Driven by Sustainable Landscaping and Sports Surfacing - News and Statistics - IndexBox",
+        "url": "https://www.indexbox.io/blog/recycled-tire-rubber-crumb-mulch-market-demand-to-accelerate-by-2035-on-playground-safety-and-circular-economy-mandates",
+        "content": "### Latin America (estimated share: 7%)\n\nLatin America is an emerging market with growing awareness of tire recycling and increasing investment in public infrastructure. Brazil and Mexico are the largest markets, driven by urbanization and the construction of sports facilities. However, collection and processing infrastructure is still developing, and price sensitivity is high. Growth will depend "
+      },
+      {
+        "title": "Weekly market commentary",
+        "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/global-weekly-commentary",
+        "content": "Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of August 27, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-t"
+      }
+    ],
+    "Sentiment de foule / positionnement": [
+      {
+        "title": "BTC Price Hits $81,400 as ETF Inflows Return, but RSI Flashes Overbought | Bitget News",
+        "url": "https://www.bitget.com/amp/news/detail/12560605787107",
+        "content": "Total crypto market cap sits at roughly $2.75 trillion, up 2.17% over 24 hours, according to CoinGecko figures. BTC dominance holding at 59.37% of that total tells you capital rotation is favoring Bitcoin specifically rather than spilling broadly into altcoins. The Fear & Greed Index reads 65, classified as Greed, which is consistent with a market that has had a good run but is not yet at the euph"
+      },
+      {
+        "title": "Bitcoin’s Rally Getting Started?",
+        "url": "https://bitcoinfoundation.org/news/bitcoin/crypto-greed-bitcoin-rally",
+        "content": "Bitcoin reached a Fear and Greed Index reading above 70 repeatedly during previous major advances. Investors who automatically sold whenever the index entered greed would have missed substantial portions of those rallies.\n\nRelated: Is It Too Late to Buy Bitcoin? Top 5 Trading Tips for Making the Most of the Bull Market\n\nThe more important distinction is between sustained bullish demand and euphori"
+      },
+      {
+        "title": "Salesforce Inc Stock (CRM) Moved Up by 3.07% on Sep 3: What Investors Need To Know",
+        "url": "https://www.tradingkey.com/news/market-movers/262149345-market-movers-crm-20260903",
+        "content": "tradingkey.logo\n\nSearch\n\nStock Screener\n\n\n\nScan to Download\n\nOne powerful score. Smarter investment decisions.\n\n Moved Up by 3.07% on Sep 3: What Investors Need To Know\n\n\n\nTradingKeySep 3, 2026 3:15 PM\n\nfacebooktwitterlinkedin\n\nView all comments（0）\n\n\n\n• Salesforce exceeded quarterly earnings expectations and raised full-year guidance. • Enterprise adoption of Agentforce and Claudeforce boosted"
+      },
+      {
+        "title": "Rua Gold Stock Under Pressure: Weak Sentiment Raises Correction Risk Despite Exploration Catalysts",
+        "url": "https://kalkine.ca/news/mining/rua-gold-stock-under-pressure-weak-sentiment-raises-correction-risk-despite-exploration-catalysts",
+        "content": "The broader gold market is also experiencing elevated volatility. Gold has been highly sensitive to changing interest-rate expectations, geopolitical developments and investor positioning during 2026. The World Gold Council has highlighted the importance of geopolitics, Monetary Policy and positioning in determining gold-market performance, while recent trading has again shown how quickly precious"
+      }
+    ]
+  }
+}

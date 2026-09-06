@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-09-06T18:26:03",
+  "indicators": {
+    "Indices actions par zone": {
+      "Amérique — S&P 500": {
+        "value": 7718.6,
+        "change_pct": -0.38
+      },
+      "Amérique — Nasdaq": {
+        "value": 26506.99,
+        "change_pct": -0.29
+      },
+      "LATAM — Bovespa (Brésil)": {
+        "value": 185147.0,
+        "change_pct": -0.02
+      },
+      "LATAM — IPC (Mexique)": {
+        "value": 64866.61,
+        "change_pct": -0.87
+      },
+      "Asie — Nikkei 225 (Japon)": {
+        "value": 65020.94,
+        "change_pct": 1.26
+      },
+      "Asie — Hang Seng (Hong Kong)": {
+        "value": 25650.87,
+        "change_pct": 1.74
+      },
+      "Asie — Shanghai Composite": {
+        "value": 3930.12,
+        "change_pct": -0.3
+      },
+      "Europe — Euro Stoxx 50": {
+        "value": 6392.93,
+        "change_pct": 0.16
+      },
+      "Europe — CAC 40": {
+        "value": 8278.77,
+        "change_pct": -0.09
+      },
+      "Europe — DAX": {
+        "value": 26046.4,
+        "change_pct": 0.17
+      },
+      "Afrique — JSE Top 40 (Afrique du Sud)": {
+        "value": 7359.56,
+        "change_pct": 0.31
+      }
+    },
+    "Taux souverains US": {
+      "US 3 mois": {
+        "value": 3.76,
+        "change_pct": 0.45
+      },
+      "US 5 ans": {
+        "value": 4.55,
+        "change_pct": 0.91
+      },
+      "US 10 ans": {
+        "value": 4.78,
+        "change_pct": 0.46
+      },
+      "US 30 ans": {
+        "value": 5.25,
+        "change_pct": 0.06
+      }
+    },
+    "Taux de change": {
+      "EUR/USD": {
+        "value": 1.16,
+        "change_pct": 0.31
+      },
+      "USD/JPY": {
+        "value": 156.22,
+        "change_pct": -1.7
+      },
+      "GBP/USD": {
+        "value": 1.35,
+        "change_pct": 0.25
+      },
+      "Dollar Index (DXY)": {
+        "value": 99.16,
+        "change_pct": 0.16
+      }
+    },
+    "Énergie": {
+      "Pétrole WTI": {
+        "value": 91.48,
+        "change_pct": 0.2
+      },
+      "Pétrole Brent": {
+        "value": 96.28,
+        "change_pct": 0.8
+      },
+      "Gaz naturel": {
+        "value": 2.97,
+        "change_pct": 2.13
+      }
+    },
+    "Matières premières": {
+      "Or": {
+        "value": 4476.6,
+        "change_pct": -0.34
+      },
+      "Argent": {
+        "value": 66.75,
+        "change_pct": -0.34
+      },
+      "Cuivre": {
+        "value": 6.68,
+        "change_pct": 1.6
+      }
+    },
+    "Indices de la peur (volatilité)": {
+      "VIX (S&P 500)": {
+        "value": 14.53,
+        "change_pct": 1.47
+      },
+      "VXN (Nasdaq)": {
+        "value": 20.04,
+        "change_pct": -0.6
+      }
+    }
+  },
+  "news": {
+    "Politique monétaire US (Fed)": [
+      {
+        "title": "Governor Breman talks on policy outlook after RBNZ's rate hike decision",
+        "url": "https://www.fxstreet.com/news/rbnz-set-to-raise-interest-rate-to-275-202609012200",
+        "content": "Experts expect a consensus decision this week, unlike a deeply divided outcome predicted during the July monetary policy meeting.\n\nThe RBNZ interest rate announcement is due at 02:00 GMT, accompanied by the Monetary Policy Review (MPR), Monetary Policy Statement (MPS) and the Minutes of the meeting. Governor Anna Breman’s press conference will follow at 03:00 GMT.\n\nThe New Zealand Dollar (NZD) is "
+      },
+      {
+        "title": "Fed Rate Decision Still Hangs on Inflation After Jobs Report",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-04/fed-rate-decision-still-hangs-on-inflation-after-jobs-report",
+        "content": "### For Customers\n\n### Support\n\nAmericas+1 212 318 2000\n\nEMEA+44 20 7330 7500\n\nAsia Pacific+65 6212 1000\n\nThe Fed:\n\n# Fed Rate Decision Still Hangs on Inflation After Jobs Report\n\nThe Marriner S. Eccles Federal Reserve building in Washington.\n\nThe Marriner S. Eccles Federal Reserve building in Washington.\n\nA surprise jump in US hiring last month has bolstered the case for the Federal Reserve to ra"
+      },
+      {
+        "title": "JPMorgan Drops 'Bullish' Stance On US Stocks After Warsh's Hawkish Tone At Jackson Hole, Shifts To 'Tactically Cautious' — Noticias de TradingView",
+        "url": "https://es.tradingview.com/news/stocktwits:635f03214094b:0-jpmorgan-drops-bullish-stance-on-us-stocks-after-warsh-s-hawkish-tone-at-jackson-hole-shifts-to-tactically-cautious",
+        "content": "JPMorgan Chase & Co.’s trading team has stepped back from its bullish posture on U.S. equities, shifting to a tactically cautious stance ahead of the Federal Reserve’s upcoming policy decision.\n\nThe recalibration follows recent hawkish remarks by Federal Reserve Chairman Kevin Warsh, which prompted financial markets to price in an increased probability of interest-rate hikes before the end of the "
+      },
+      {
+        "title": "US Futures Steady as Oil Prices Ease and Markets Assess Broadcom Outlook: Dow Jones, S&P, Nasdaq, Wall Street",
+        "url": "https://finance.yahoo.com/markets/articles/us-futures-steady-oil-prices-094239509.html",
+        "content": "Market participants continued to monitor the conflict and its potential impact on energy shipments through the Strait of Hormuz.\n\n## Fed Officials Comment on Interest-Rate Outlook\n\nNew York Fed President John Williams said higher long-term bond yields reflected the strength of the US economy rather than inflation concerns.\n\nWilliams told CNBC that increased borrowing costs were being driven by the"
+      }
+    ],
+    "Politique monétaire Europe (BCE)": [
+      {
+        "title": "ECB preview: How to hike rates without creating more market turmoil",
+        "url": "https://think.ing.com/articles/ecb-preview-how-to-hike-rates-without-creating-more-market-turmoil",
+        "content": "ING Logo\nING Logo\nUK flag\nItalian flag\nING Logo\nItalian flag\n\n# ECB preview: How to hike rates without creating more market turmoil\n\nWe expect the ECB to hike interest rates by 25bp next week. As long as inflation remains mainly energy-driven, hiking rates further beyond next week would not make a lot of sense and could harm the eurozone economy\n\nCarsten Brzeski\nThe European Central Bank looks set"
+      },
+      {
+        "title": "Europe raises central bank interest rates",
+        "url": "https://www.voiceofemirates.com/en/business/2026/09/06/the-european-central-bank-is-poised-to-raise-interest-rates-again-amid-accelerating-inflation",
+        "content": "العربية\n Latest News\n\nSearch\n\nHave an existing account?  Sign In\n\nFollow US\n\nAll rights reserved © Voice of Emirates - News service from Our Media Group\n\nBusinessBusiness Reports\n\n# The European Central Bank is poised to raise interest rates again amid accelerating inflation\n\n## Europe raises central bank interest rates\n\nعلي رجب\n\nAli Ragab\n\nعلي رجب\n\nByAli Ragab\n\nNews Editor\n\nAli Ragab, editor at V"
+      },
+      {
+        "title": "Eurozone inflation rose to 3.3%, with the European Central Bank signaling further interest rate hikes, while the euro continued to trade in a narrow range at low levels against the US dollar.",
+        "url": "https://www.moomoo.com/news/post/75685113/eurozone-inflation-rose-to-3-3-with-the-european-central",
+        "content": "TheEuropean Central Bank's policy stance is shifting further toward a hawkish direction. Gabriel Makhlouf, Member of the ECB Governing Council and Governor"
+      },
+      {
+        "title": "Eurozone Inflation Climbs to Near Three-Year High Ahead of ECB Meeting",
+        "url": "https://www.wsj.com/economy/central-banking/eurozone-inflation-climbs-to-near-three-year-high-ahead-of-ecb-meeting-2566d178",
+        "content": "Advertisement\n\nThis copy is for your personal, non-commercial use only. Distribution and use of this material are governed by\nour Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact\nDow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.\n\n# Eurozone Inflation Climbs to Near Three-Year High Ahead of ECB Meeting\n\n## Prices rose to 3.3"
+      }
+    ],
+    "Asie (BoJ, Chine)": [
+      {
+        "title": "US Treasury Secretary Bessent: Japanese Yen moves 'pretty contained' and not disorderly",
+        "url": "https://www.fxstreet.com/news/us-treasury-secretary-bessent-japanese-yen-moves-pretty-contained-and-not-disorderly-202608302347",
+        "content": "### What has been the Bank of Japan’s policy?\n\nThe Bank of Japan embarked in an ultra-loose monetary policy in 2013 in order to stimulate the economy and fuel inflation amid a low-inflationary environment. The bank’s policy is based on Quantitative and Qualitative Easing (QQE), or printing notes to buy assets such as government or corporate bonds to provide liquidity. In 2016, the bank doubled dow"
+      },
+      {
+        "title": "China’s Financial Influence Is Reaching Advanced Markets",
+        "url": "https://economy.ac/review/2026/09/202609295298",
+        "content": "Home\n Financial\n China’s Financial Influence Is Reaching Advanced Markets\n\n# China’s Financial Influence Is Reaching Advanced Markets\n\n#### Member for\n\n1 year 2 months\n\nReal name\n\nThe Economy Editorial Board\n\nBio\n\nThe Economy Editorial Board oversees the analytical direction, research standards, and thematic focus of The Economy. The Board is responsible for maintaining methodological rigor, edito"
+      },
+      {
+        "title": "Bessent says yen moves 'pretty contained' and not disorderly",
+        "url": "https://www.reuters.com/world/asia-pacific/bessent-says-yen-moves-pretty-contained-not-disorderly-2026-08-30",
+        "content": "Japan and the ​United States carried out a ​rare joint yen-buying intervention on ⁠July 31, signaling their determination to prevent a selloff in the yen and Japanese government bonds from spilling over into global markets.\n\nBessent had repeatedly called on the BOJ to raise interest ​rates to combat inflation and unwelcome yen declines, remarks that have led markets to ​nearly fully ⁠price in the "
+      },
+      {
+        "title": "Japan faces day of policy reckoning as Bessent calls time on big stimulus",
+        "url": "https://www.reuters.com/world/asia-pacific/japan-faces-day-policy-reckoning-bessent-calls-time-big-stimulus-2026-09-01",
+        "content": "## Browse World\n\n## Browse Business\n\n## Browse Markets\n\n## Browse Sustainability\n\n## Legal\n\n## Commentary\n\n## Technology\n\n## Investigations\n\n## Sports\n\n## Science\n\n## Lifestyle\n\n## City Memo\n\n## Graphics\n\n## Pictures\n\n## Wider Image\n\n## Podcasts\n\n## Live\n\n## Fact Check\n\n## Video\n\n## Media Center\n\n## Sponsored Content\n\n# Japan faces day of policy reckoning as Bessent calls time on big stimulus\n\nJap"
+      }
+    ],
+    "Marchés émergents (LATAM, Afrique)": [
+      {
+        "title": "Creator Economy Market Size, Share, Report 2035",
+        "url": "https://market.us/report/creator-economy-market",
+        "content": "| North America | Europe | Asia Pacific | Latin America | Middle East & Africa |\n   ---  --- \n  | + US + Canada | + Germany + France + The UK + Spain + Italy + Rest of Europe | + China + Japan + South Korea + India + Australia + Rest of APAC | + Brazil + Mexico + Rest of Latin America | + GCC + South Africa + Rest of MEA |\n\nCreator Economy Market\n\nCreator Economy Market\n\nPublished date: July 2026\n"
+      },
+      {
+        "title": "Hong Kong Forum Explores Stablecoins’ Promise in Atlanta Ahead of Fintech South",
+        "url": "https://www.globalatlanta.com/hong-kong-forum-explores-stablecoins-promise-in-atlanta-forum-ahead-of-fintech-south",
+        "content": "The reasoning? Stablecoins — tokenized digital assets pegged to the value of a fiat currency or commodity — offer benefits that smooth the way for cross-border commerce, perhaps to the chagrin of banks profiting handsomely off the current system and their privileged access to U.S. dollars, still the pre-eminent reserve currency.\n\nThat equation is changing in the emerging-market economies of Latin "
+      },
+      {
+        "title": "World's biggest problems won't be solved by markets alone",
+        "url": "https://finance.yahoo.com/economy/articles/worlds-biggest-problems-wont-solved-170221978.html",
+        "content": "# World's biggest problems won't be solved by markets alone\n\nArnold Lee\n\n4 min read\n\nMarkets are designed to allocate resources where they expect highest returns, and those returns tend to show up where capital and talent already are, so the best infrastructure gets built in the places that already have it.\n\nThat's why regions like Latin America and Africa have a hard time attracting resources. Ma"
+      },
+      {
+        "title": "Africa: Wars, Humanitarian Crises, Economic Rivalries and Natural Disasters Shape the World",
+        "url": "https://allafrica.com/stories/202609010020.html",
+        "content": "Latin America: Venezuela\n\nLatin America witnessed significant political and economic developments during the week, with an emerging energy relationship between Venezuela and the United States standing out as one of the most consequential. Washington's reported agreement to give American companies a major role in developing Venezuela's oil resources could mark a significant shift in relations betwe"
+      }
+    ],
+    "Sentiment de foule / positionnement": [
+      {
+        "title": "CoinMarketCap - Greed Is Near a One-Year High. Leverage...",
+        "url": "https://www.facebook.com/CoinMarketCap/posts/greed-is-near-a-one-year-high-leverage-and-breadth-arentcmc-fear-and-greed-reads/1495348772622511",
+        "content": "Sentiment has moved much faster than positioning or breadth. Greed is high, but this still looks very different from broad-market euphoria.\n\nMay be an image of text that says"
+      },
+      {
+        "title": "Pump.fun Crypto Holds Bullish Trend as Hourly Momentum Cools Into Greed Zone",
+        "url": "https://cryptonews.net/news/analytics/33394253",
+        "content": "## Key takeaways\n\n Daily RSI14 at 58.66 confirms a bullish regime with ample room before overbought levels\n Hourly RSI14 at 62.98 sits in neutral territory, creating unresolved tension with the daily trend\n The Fear & Greed Index at 65 signals Greed but not extreme euphoria\n Total crypto market cap near $2.68 trillion, down 0.40%, with Bitcoin dominance at 59.2%\n On-chain fee data shows traders ch"
+      },
+      {
+        "title": "Dow Jumps Around 300 Points Ahead Of Jobs Report: Investor Sentiment Improves, But Fear & Greed Index Rem - Benzinga",
+        "url": "https://www.benzinga.com/markets/market-summary/26/09/61594490/dow-jumps-around-300-points-ahead-of-jobs-report-investor-sentiment-improves-but-fear-greed-index-remains-in-fear-zone",
+        "content": "About Benzinga\n\n About Us\n Careers\n Advertise\n Contact Us\n\nMarket Resources\n\n Advanced Stock Screener Tools\n Options Trading Chain Analysis\n Comprehensive Earnings Calendar\n Dividend Investor Calendar and Alerts\n Economic Calendar and Market Events\n IPO Calendar and New Listings\n Market Outlook and Analysis\n Wall Street Analyst Ratings and Targets\n\nTrading Tools & Education\n\n Benzinga Pro Trading "
+      },
+      {
+        "title": "The stock market could fall 30% to 50% if AI's \"day of reckoning ...",
+        "url": "https://www.facebook.com/schwabnetwork/posts/the-stock-market-could-fall-30-to-50-if-ais-day-of-reckoning-arrives-and-broader/1665905842203438",
+        "content": "Markets have always been driven by fear and greed. Every crash, every ... market and erode investor confidence in the dollar. Additionally, the cracks"
+      }
+    ]
+  }
+}
